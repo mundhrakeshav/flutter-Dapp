@@ -1,8 +1,10 @@
-# smart
+# flutter dapp
 
-A new Flutter project.
+## Do remember when taking reference.
+  > Truffle migrate --reset changes contracts address.
+  > When using phone don't use localHost.
+  
 
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
