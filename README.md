@@ -1,8 +1,8 @@
 # flutter dapp
 
 ## Do remember when taking reference.
-  > Truffle migrate --reset changes contracts address.
-  > When using phone don't use localHost.
+  => Truffle migrate --reset changes contracts address.
+  => When using phone don't use localHost.
   
 
 
